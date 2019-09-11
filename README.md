@@ -1,2 +1,2 @@
-# stanfordAlgorithms
+# Algorithms courses by Stanford
 Programming assignments solutions solved by Python
